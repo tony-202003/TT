@@ -2,4 +2,4 @@ import time
 
 print("Hello World!")
 
-print(time.time())
+print(time.time(format))
